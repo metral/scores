@@ -1,0 +1,4 @@
+[submodule "led_sign"]
+	path = led_sign
+	url = https://github.com/metral/led_sign.git
+    ignore = dirty
